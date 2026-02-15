@@ -104,7 +104,7 @@ covering the entire development cycle: electronics design, firmware, communicati
 
 <h2>📫 Contact</h2>
 
-<p>
+<p style="display:flex;align-items:center;gap:14px;">
   <a href="mailto:nicolasxrodriguez72@gmail.com" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
@@ -112,8 +112,6 @@ covering the entire development cycle: electronics design, firmware, communicati
       alt="Email"
     />
   </a>
-
-  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/nicolas-rodriguez-404139183" target="_blank">
     <img
